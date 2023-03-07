@@ -1,10 +1,12 @@
 import React from 'react';
+import './App.scss'
+import Header from "./Layout/Header/Header";
+
 
 const App = () => {
     return (
         <>
-           <h4>dfhghkk</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, quis.</p>
+<Header/>
         </>
     );
 };
