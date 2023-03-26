@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.container{
+  width: 1140px;
+  margin: 0 auto;
+}
+.cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 30px;
+}
+.card{
+  width: 300px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+  border-radius: 6px;
+  font-family: sans-serif;
+  text-align: center;
+}
+.card p{
+  font-size: 20px;
+}
+.card img{
+  width: 100%;
+}

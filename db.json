@@ -1,0 +1,64 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "IPhone 14 Plus",
+      "brand": "Apple",
+      "color": ["purple","black"],
+      "memory": 256,
+      "ram": 6,
+      "image": ["https://svetofor.info/images/thumbnails/500/500/detailed/297/smartfon-apple-iphone-14-plus-256-gb-ram-6-gb-purple-1.jpg","https://svetofor.info/images/thumbnails/500/500/detailed/297/smartfon-apple-iphone-14-plus-256-gb-ram-6-gb-midnight-1.jpg"],
+      "price": 89292
+    },
+    {
+      "id": 2,
+      "name": "IPhone 14 Pro Max",
+      "brand": "Apple",
+      "color":  ["purple","black"],
+      "memory": 512,
+      "ram": 6,
+      "image": ["https://svetofor.info/images/thumbnails/500/500/detailed/297/smartfon-apple-iphone-14-pro-max-512-gb-ram-6-gb-deep-purple-1.jpg","https://svetofor.info/images/thumbnails/500/500/detailed/297/smartfon-apple-iphone-14-pro-max-512-gb-ram-6-gb-space-black-1.jpg"],
+      "price": 105322
+    },
+    {
+      "id": 3,
+      "name": "iPhone SE",
+      "brand": "Apple",
+      "color":  ["white","black"],
+      "memory": 64,
+      "ram": "gb",
+      "image": ["https://svetofor.info/images/thumbnails/500/500/detailed/194/smartfon-apple-iphone-se-2020-64-gb-ram-gb-white.jpg","https://svetofor.info/images/thumbnails/500/500/detailed/194/smartfon-apple-iphone-se-2020-64-gb-ram-gb-black.jpg  "],
+      "price": 40940
+    },
+    {
+      "id": 4,
+      "name": "Galaxy A04s",
+      "brand": "Samsung",
+      "color":  ["green","black"],
+      "memory": 128,
+      "ram": 4,
+      "image": ["https://svetofor.info/images/thumbnails/500/500/detailed/305/smartfon-samsung-galaktika-a04s-128-gb-ram-4-gb-grin-1_puxp-x6.jpg","https://svetofor.info/images/thumbnails/500/500/detailed/305/smartfon-samsung-galaktika-a04s-128-gb-ram-4-gb-black-3.jpg"],
+      "price": 13884
+    },
+    {
+      "id": 5,
+      "name": "Galaxy Z Fold 4",
+      "brand": "Samsung",
+      "color":  ["black","grey"],
+      "memory": 512,
+      "ram": 12,
+      "image": ["https://svetofor.info/images/thumbnails/500/500/detailed/305/smartfon-samsung-galaktika-z-fold-4-512-gb-ram-12-gb-black-1.jpg","https://svetofor.info/images/thumbnails/500/500/detailed/305/smartfon-samsung-galaktika-z-fold-4-512-gb-ram-12-gb-black-2.jpg"],
+      "price": 120150
+    },
+    {
+      "id": 6,
+      "name": "Galaxy A04s",
+      "brand": "Samsung",
+      "color":  ["pinky"],
+      "memory": 128,
+      "ram": 4,
+      "image": ["https://svetofor.info/images/thumbnails/500/500/detailed/305/smartfon-samsung-galaktika-a04s-128-gb-ram-4-gb-brown-1.jpg"],
+      "price": 120150
+    }
+  ]
+}
