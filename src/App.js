@@ -7,6 +7,7 @@ import Iphone from "./Pages/iphone/Ipfone";
 import axios from "axios";
 import Samsung from "./Pages/Sumsung/Samsung";
 import OneRoute from "./Pages/One route";
+import Basket from "./Pages/basket/basket";
 
 const App = () => {
     const [product,setProduct] =useState([])
@@ -24,6 +25,7 @@ const App = () => {
                     <Route path='iphone' element={<Iphone product={product}/>}/>
                     <Route path='samsung' element={<Samsung product={product}/>}/>
                     <Route path='/:id' element={<OneRoute/>}/>
+                    <Route path='basket' element={<Basket/>}/>
                 </Route>
             </Routes>
         </>
